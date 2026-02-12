@@ -210,7 +210,7 @@ https://yongmai.xyz/category/daily-research/feed/
 
 ## 📄 开源协议
 
-**思想开源，欢迎拿去改，也欢迎交流你的「智力创造」。**
+**思想开源，欢迎拿去改，也欢迎交流你的「智力创造」，勇麦邮箱：evan@yongmai.xyz 。**
 
 - 投资场景的完整实现：本仓库提供
 - 其他场景的适配：欢迎 Fork 后按需改造
